@@ -1,0 +1,112 @@
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe.config
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AnaGiris.resources
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Properties.Resources.resources
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.UyeGirisi.resources
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csproj.GenerateResource.Cache
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.pdb
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.exe
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.pdb
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csprojResolveAssemblyReference.cache
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Kaydol.resources
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AdminSayfasi.resources
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.HastaSayfasi.resources
+C:\Users\Elif Öztürk\Documents\Visual Studio 2012\Projects\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuAl.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe.config
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.exe
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.pdb
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.pdb
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csprojResolveAssemblyReference.cache
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AdminSayfasi.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AnaGiris.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.HastaSayfasi.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Kaydol.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Properties.Resources.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuAl.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.UyeGirisi.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csproj.GenerateResource.Cache
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuOnayla.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuGecmisi.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.DoktorHastaRandevuGecmisi.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.DoktorSayfasi.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.ReceteYaz.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.İzinTalebi.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.PersonelKayit.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.PersonelListele.resources
+I:\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.IzinTalepleri.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe.config
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.exe
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.pdb
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.pdb
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csprojResolveAssemblyReference.cache
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AdminSayfasi.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AnaGiris.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.DoktorHastaRandevuGecmisi.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.DoktorSayfasi.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.HastaSayfasi.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.IzinTalepleri.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Kaydol.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.PersonelKayit.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.PersonelListele.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Properties.Resources.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuAl.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuGecmisi.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuOnayla.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.ReceteYaz.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.UyeGirisi.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.İzinTalebi.resources
+E:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csproj.GenerateResource.Cache
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe.config
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.exe
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.pdb
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.pdb
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csprojResolveAssemblyReference.cache
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AdminSayfasi.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AnaGiris.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.DoktorHastaRandevuGecmisi.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.DoktorSayfasi.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.HastaSayfasi.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.IzinTalepleri.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Kaydol.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.PersonelKayit.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.PersonelListele.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Properties.Resources.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuGecmisi.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuOnayla.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.ReceteYaz.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.UyeGirisi.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.İzinTalebi.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csproj.GenerateResource.Cache
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.HastaReceteGecmisi.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.ProfilGoruntule.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuAl1.resources
+I:\kurs\quiz10\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.SifremiUnuttum.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe.config
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.exe
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.pdb
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.exe
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\bin\Debug\Quiz10Mhrs.pdb
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csprojResolveAssemblyReference.cache
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AdminSayfasi.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.AnaGiris.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.DoktorHastaRandevuGecmisi.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.DoktorSayfasi.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.HastaReceteGecmisi.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.HastaSayfasi.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.IzinTalepleri.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Kaydol.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.PersonelKayit.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.PersonelListele.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.ProfilGoruntule.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.Properties.Resources.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuAl1.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuGecmisi.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.RandevuOnayla.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.ReceteYaz.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.SifremiUnuttum.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.UyeGirisi.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.İzinTalebi.resources
+C:\Users\Elif Öztürk\Desktop\Yeni klasör (2)\Quiz10Mhrs\Quiz10Mhrs\obj\Debug\Quiz10Mhrs.csproj.GenerateResource.Cache
